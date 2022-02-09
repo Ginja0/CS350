@@ -1,4 +1,4 @@
-# CS350
+# Embedded Technology
 Emerging Technologies
 
 This project is an embedded project that simulates a thermostat. This is using a TI SimpleLink CC3220S.
